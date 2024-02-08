@@ -8,4 +8,4 @@ export const mintText = [
 export const image = "https://cdn.discordapp.com/attachments/1186587882811576351/1205019997642952704/0.png";
 
 //website title
-export const headerText = "stellacyl's raffles";
+export const headerText = "stellacyl's raffles (0.2 SOL)";
